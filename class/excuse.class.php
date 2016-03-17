@@ -6,7 +6,6 @@ class TExcuse extends TObjetStd {
 		
 		$this->set_table(MAIN_DB_PREFIX.'excuse');
 	  
-		$this->add_champs('fk_soc,fk_product',array('type'=>'integer', 'index'=>true));
 		$this->add_champs('heure','type=text;');
 		$this->add_champs('textExcuse','type=text;');
 		
