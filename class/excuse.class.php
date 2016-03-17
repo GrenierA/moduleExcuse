@@ -1,6 +1,6 @@
 <?php
 
-class TExcuse extends TObjstd {
+class TExcuse extends TObjetStd {
 	
 	function __construct() {
 		
