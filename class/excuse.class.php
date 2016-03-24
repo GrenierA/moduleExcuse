@@ -13,7 +13,6 @@ class TExcuse extends TObjetStd {
 		
 		$this->start();
 		
-		
 	}
 
 
